@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
