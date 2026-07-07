@@ -12,49 +12,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0169-majority-element) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0001-two-sum) |
-| [0013-roman-to-integer](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0013-roman-to-integer) |
-| [0169-majority-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0169-majority-element) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0169-majority-element) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0169-majority-element) |
-## Two Pointers
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0075-sort-colors) |
-| [0088-merge-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0088-merge-sorted-array) |
-## Math
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0013-roman-to-integer) |
-| [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0013-roman-to-integer) |
-| [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
-| [0136-single-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0136-single-number) |
-## Simulation
-|  |
-| ------- |
 | [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
