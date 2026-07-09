@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 <!---LeetCode Topics End-->
