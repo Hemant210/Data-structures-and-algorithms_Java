@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0242-valid-anagram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0125-valid-palindrome) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
