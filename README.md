@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Dynamic Programming
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
 ## Stack
