@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
