@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -149,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
