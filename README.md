@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0560-subarray-sum-equals-k) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -160,12 +162,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0100-same-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
