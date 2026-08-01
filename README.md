@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
