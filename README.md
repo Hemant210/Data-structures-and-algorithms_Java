@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
