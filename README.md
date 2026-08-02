@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
