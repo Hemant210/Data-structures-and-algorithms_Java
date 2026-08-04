@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -170,10 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0144-binary-tree-preorder-traversal) |
 ## Union-Find
 |  |
 | ------- |
