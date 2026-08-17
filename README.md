@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -211,9 +212,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0141-linked-list-cycle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
