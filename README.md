@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
