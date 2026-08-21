@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -228,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
