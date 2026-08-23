@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0322-coin-change) |
+| [0496-next-greater-element-i](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
