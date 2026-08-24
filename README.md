@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0912-sort-an-array) |
 ## Memoization
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
