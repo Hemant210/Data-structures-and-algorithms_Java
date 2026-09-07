@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0020-valid-parentheses) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0131-palindrome-partitioning) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0075-sort-colors) |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0316-remove-duplicate-letters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
