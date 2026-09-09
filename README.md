@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
