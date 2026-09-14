@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0836-rectangle-overlap) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
