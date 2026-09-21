@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0075-sort-colors) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0509-fibonacci-number) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
