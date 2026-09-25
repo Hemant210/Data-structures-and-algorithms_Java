@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0088-merge-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0146-lru-cache) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
