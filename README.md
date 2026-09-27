@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0242-valid-anagram) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0146-lru-cache) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
