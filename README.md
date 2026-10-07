@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0856-score-of-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Manacher
 |  |
