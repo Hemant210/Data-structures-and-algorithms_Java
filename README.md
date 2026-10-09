@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0322-coin-change) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0912-sort-an-array) |
 ## String
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0836-rectangle-overlap) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
@@ -132,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Dynamic Programming
