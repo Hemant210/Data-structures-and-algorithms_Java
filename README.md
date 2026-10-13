@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0994-rotting-oranges) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2073-time-needed-to-buy-tickets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
 | [3903-smallest-stable-index-i](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/3904-smallest-stable-index-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Trie
 |  |
 | ------- |
