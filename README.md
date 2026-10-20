@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0051-n-queens) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0678-valid-parenthesis-string) |
