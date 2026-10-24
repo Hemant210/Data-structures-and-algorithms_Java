@@ -8,17 +8,17 @@ class Solution {
         mp.put('C',100);
         mp.put('D',500);
         mp.put('M',1000);
-        int num = 0;
-        for(int i=0;i<s.length()-1;i++)
-        { 
-            if(mp.get(s.charAt(i))<mp.get(s.charAt(i+1)))
-            {
-                num=num-mp.get(s.charAt(i));
-            }else
-            {
-                num=num+mp.get(s.charAt(i));
-            }
+        
+        int total = 0;
+
+        for(int i = 0; i < s.length(); i++){
+            int current = mp.get(s.charAt(i));
+            if(i + 1 < s.length() && current < mp.get(s.charAt(i + 1)))
+            total -= current;
+            else
+            total += current; 
         }
-        return num+mp.get(s.charAt((s.length()-1)));
+
+        return total;
     }
 }
