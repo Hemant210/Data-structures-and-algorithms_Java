@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0678-valid-parenthesis-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0876-middle-of-the-linked-list) |
