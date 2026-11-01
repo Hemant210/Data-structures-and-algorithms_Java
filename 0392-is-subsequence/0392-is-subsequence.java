@@ -11,7 +11,6 @@ class Solution {
             ts++;
         }
         return st == s.length();
-
     }
 
 }
