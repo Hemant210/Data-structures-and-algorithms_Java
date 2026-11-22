@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0268-missing-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0836-rectangle-overlap) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0287-find-the-duplicate-number) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0202-happy-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
