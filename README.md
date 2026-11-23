@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0274-h-index) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0290-word-pattern) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Hemant210/Data-structures-and-algorithms_Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Trie
